@@ -1,0 +1,5 @@
+[
+  { "command": "start", "description": "打开主菜单" },
+  { "command": "id", "description": "查看你的 Telegram ID" },
+  { "command": "uid", "description": "获取任意用户名的永久 ID" }
+]
